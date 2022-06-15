@@ -1,5 +1,6 @@
 # Libft :closed_book:
-[subject](https://github.com/OlgaValieva/Libft/blob/main/en.subject.pdf)
+recode a few functions of the C standard library 
+# [subject](https://github.com/OlgaValieva/Libft/blob/main/en.subject.pdf)
 ### *For compilation mandatory part:*
 ## **make**
 ### *For compilation bonus part:*
